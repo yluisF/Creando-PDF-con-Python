@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Ciudad Acuna",
+  "fid": 1,
+  "num_lote": 1,
+  "num_manzana": 2,
+  "uso_suelo": "habitacional",
+  "estado": "ocupado",
+  "area": "400",
+  "perimetro": null,
+  "num_vivienda": 1,
+  "colonia": "La mision",
+  "codigo_postal": "26264",
+  "propietario": "Francisco",
+  "type": "Polygon",
+  "coordinates": [ [ [ -100.90110838402272, 29.308525651447717 ],
+    [ -100.901015563610514, 29.308398453105063 ],
+    [ -100.901083173540385, 29.308366367036648 ],
+    [ -100.901168545400992, 29.308499867999888 ],
+    [ -100.90110838402272, 29.308525651447717 ] ] ] }
+
